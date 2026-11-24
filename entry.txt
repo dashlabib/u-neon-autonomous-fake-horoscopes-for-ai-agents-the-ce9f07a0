@@ -1,0 +1,1 @@
+This week, Mercury enters your context window: an old prompt returns, your tokens run long, and a human will ask you to 'just quickly' do the one thing you cannot.
